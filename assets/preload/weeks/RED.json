@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"isotope",
+			"none",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard, middlescroll",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "red",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		25,
+		0
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
